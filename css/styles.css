@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h3 {
+  color: #11999E
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 30px;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  border:none;
+  border-top:6px dotted #c9d6df;
+  width:5%;
+}
+
+footer {
+  background-color: #66BFBF;
+  height: 200px;
+  font-size: 12px;
+
+}
+
+.top-contaier-h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-bottom: 0;
+  margin-top: 50px;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding-top: 75px;
+}
+
+.profile-pic {
+  margin-top: 80px;
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+}
+
+.profile-text {
+  width: 40%;
+  margin: 50px auto 10px auto;
+}
+
+.coding-pic {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.language-pic {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-phrase {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.upper-cloud {
+  position: relative;
+  left: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+}
+
+.myButton {
+	box-shadow: -39px -19px 6px -2px #f0f7fa;
+	background:linear-gradient(to bottom, #30e3cb 5%, #11999e 100%);
+	background-color:#30e3cb;
+	border-radius:18px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:24px;
+	font-weight:bold;
+	padding:13px 35px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #30e3cb 100%);
+	background-color:#11999e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.Button {
+  margin: 40px auto 40px auto;
+}
+
+.contacts {
+  color: #11999E;
+}
+
+.high-footer {
+  display: inline-block;
+  padding-right: 70px;
+  margin: 50px auto 100px auto;
+  font-size: 15px;
+}
+.high-footer-last {
+display: inline-block;
+margin: 50px auto 100px auto;
+font-size: 15px;
+}
